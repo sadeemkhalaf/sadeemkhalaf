@@ -11,8 +11,8 @@
 My name is Sadeem Khalaf, passionate about web and mobile development (specially front-end)! :heart:
 
 - :office_worker: Mobile Application Engineer at [**Pio-Tech**](https://www.pio-tech.com/)
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras
-- :books: Estudando Relay e GraphQL
+- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, among others
+- :books: Learning GraphQL, NestJs, more on MLKit, Docker
 
 ---
 
