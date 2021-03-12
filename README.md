@@ -14,8 +14,6 @@ My name is Sadeem Khalaf, passionate about web and mobile development (specially
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras
 - :books: Estudando Relay e GraphQL
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
-
 ---
 
 <details>
