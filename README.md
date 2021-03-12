@@ -1,4 +1,4 @@
-# :man_technologist: Sadeem Khalaf
+# :woman_technologist: Sadeem Khalaf
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadeem-khalaf/)](https://www.linkedin.com/in/sadeem-khalaf/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/sadeemkh92)
@@ -9,7 +9,7 @@
 
 My name is Sadeem Khalaf, passionate about web and mobile development (specially front-end)! :heart:
 
-- :office_worker: Mobile Application Engineer at [**Pio-Tech**](https://www.pio-tech.com/)
+- :woman_office_worker: Mobile Application Engineer at [**Pio-Tech**](https://www.pio-tech.com/)
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, among others
 - :books: Learning GraphQL, NestJs, more on MLKit, Docker
 
