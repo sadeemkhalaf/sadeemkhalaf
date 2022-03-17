@@ -46,3 +46,5 @@ My name is Sadeem Khalaf, passionate about web and mobile development (specially
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 </details>
+
+<a href="https://app.daily.dev/sadeemk"><img src="https://api.daily.dev/devcards/2f0bc7bbbd744170ba3ff2e7650e4e2a.png?r=3lp" width="400" alt="Sadeem Khalaf's Dev Card"/></a>
