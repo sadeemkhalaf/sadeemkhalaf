@@ -11,7 +11,7 @@ My name is Sadeem Khalaf, passionate about web and mobile development (specially
 
 - :woman_office_worker: Mobile Application Engineer at [**Netways**](https://www.pio-tech.com/)
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, among others
-- :books: Learning GraphQL, NestJs, Nextjs and why not 'Docker!'
+- :books: Learning GraphQL, NestJs, Nextjs'
 
 ---
 
