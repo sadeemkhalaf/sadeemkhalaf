@@ -9,8 +9,8 @@
 My name is Sadeem Khalaf, passionate about web and mobile development (specially front-end)! :heart:
 
 - :woman_office_worker: Software Engineer | Frontend at [**Shory**](https://www.linkedin.com/company/slashdatadigital/posts/?feedView=all)
-- :blue_heart: Techs: React.js, React Native, among others
-- :books: Learning GraphQL, NestJs, Nextjs'
+- :blue_heart: Tech: React js, Next.js, React Native, among others
+- :books: Learning GraphQL, NestJs, Nodejs'
 
 ---
 
