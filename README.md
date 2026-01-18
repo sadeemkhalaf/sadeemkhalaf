@@ -8,9 +8,9 @@
 
 My name is Sadeem Khalaf, passionate about web and mobile development (specially front-end)! :heart:
 
-- :woman_office_worker: Software Engineer | Frontend at [**MyThings**]
+- :woman_office_worker: Software Engineer | Frontend [React Native, React js] "Currently open for new opportunities!"
 - :blue_heart: Tech: React js, Next.js, React Native, among others
-- :books: Learning GraphQL, NestJs, Nodejs'
+- :books: Learning GraphQL, NestJs, Nodejs', more about latest tech trends "AI-Agents"
 
 ---
 
